@@ -73,6 +73,10 @@ p {
     background: #f7c08a;
 }
 
+.l-heading {
+    font-size: 40px;
+}
+
 /*navbar styling*/
 #navbar {
     background: #333;
@@ -113,6 +117,22 @@ p {
 .clr {
     clear: both;
 }
+
+/*padding*/
+.py-1 {
+    padding: 10px 0;
+}
+
+.py-2 {
+    padding: 20px 0;
+}
+
+.py-3 {
+    padding: 30px 0;
+}
+
+
+
 /*showcase*/
 
 #showcase {
@@ -175,6 +195,25 @@ p {
     margin-bottom: 10px;
 }
 
+/*about info*/
+#about-info .info-right {
+    float: right;
+    width: 50%;
+    min-height: 100%;
+}
+
+#about-info .info-right img {
+    width: 70%;
+    display: block;
+    margin: auto;
+    border-radius: 50%;
+}
+
+#about-info .info-left {
+    float: left;
+    width: 50%;
+    min-height: 100%;
+}
 /*footer*/ 
 #main-footer {
     text-align: center;
