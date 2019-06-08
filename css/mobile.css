@@ -12,3 +12,23 @@
     border-bottom: #444 dotted 1px;
 }
 
+/*home info*/
+#home-info {
+    height: 550px;
+}
+
+#home-info .info-img {
+    display: none;
+}
+
+#home-info .info-content {
+    float: none;
+    width: 100%;
+}
+
+/*boxes*/
+
+.box {
+    float: none;
+    width: 100%;
+}
